@@ -1,0 +1,29 @@
+<!DOCTYPE html> <!--xác định bên dưới đang code html-->
+<html>
+    <head> <!--head là cặp thẻ chứa toàn bộ thông tin của trang web-->
+        <title>HTML co ban</title> <!--tên trang web-->
+    </head>
+    <body>
+        <h1></h1>
+        <h2></h2>
+        <h3></h3>
+        <h4></h4>
+        <h5></h5>
+        <h6></h6>
+        <!--heading-tiêu đề của các phần tử trong web,1->6 nhỏ dần-->
+        <p>
+            <strike></strike> <!--kiểu chữ gạch ngang-->
+            <br> <!--break có tác dụng xuống dòng-->
+            <hr> <!--tạo ra 1 dòng kẻ ngang phân cách-->
+            <b></b> <!--kiểu chữ in đậm-->
+            <em></em>  <!--kiểu chữ in nghiêng-->
+            <u></u>  <!-- kiểu chữ có gạch chân-->
+
+        </p> <!--là nơi chứa thông tin/văn bản-->
+        <img src="" alt="">
+        <!--src dùng để chứa đường link của ảnh, alt dùng để hiển thị ký hiệu bức ảnh nếu đường link sai-->
+        <a href="">ki hieu dan den duong link</a>
+        <!--dùng để hiện thị nơi dẫn đến đường link-->
+
+    </body>
+</html>

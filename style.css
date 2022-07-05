@@ -1,0 +1,70 @@
+.bg{
+    background-color: rgb(164, 91, 248);
+    width: 320px;
+    height: 130px;
+    padding: 10px;
+    display: flex;
+  }
+  .container{
+    display: block;
+  }
+  .left{
+    display: flex;
+    margin-right : 3px
+  }
+  .top{
+    display: flex;
+    margin-bottom: 5px;
+  }
+
+  .red{
+    background-color: red;
+    width: 60px;
+    height: 40px;
+    margin-right : 3px;
+  }
+  .greenlight{
+    background-color: rgb(96, 247, 197);
+    width: 100px;
+    height: 40px;
+    margin-right : 3px;
+  }
+  .green{
+    background-color : green;
+    width: 40px;
+    height : 40px
+  }
+  .bottom{
+    display: flex;
+  }
+  .orange{
+    background-color: orangered;
+    width : 60px;
+    height: 80px;
+    margin-right: 3px;
+  }
+  .orangelight{
+    background-color: orange;
+    width : 143px;
+    height: 80px;
+  }
+  .right{
+    display: flex;
+  }
+  .blue{
+    background-color: #4b4ef7;
+    width: 30px;
+    height: 125px;
+    margin-right: 3px;
+  }
+  .blueblack{
+    background-color: #04067e;
+    width: 60px;
+    height: 125px;
+    margin-right: 3px;
+  }
+  .bluelight{
+    background-color: rgb(0, 204, 255);
+    width : 10px;
+    height: 125px;
+  }
