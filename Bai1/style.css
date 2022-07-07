@@ -1,7 +1,5 @@
-body{
-  background-color: rgb(164, 91, 248);
-}
 .bg{
+  background-color: #dbdeff;
   width: 97%;
   height: 550px;
   padding: 30px;
@@ -25,19 +23,19 @@ body{
 }
 
 .red{
-  background-color: red;
+  background-color: #d30557;
   width: 25%;
   height: 100%;
   margin-right : 1%;
 }
 .greenlight{
-  background-color: rgb(96, 247, 197);
+  background-color: #00aba5;
   width: 50%;
   height: 100%;
   margin-right : 1%;
 }
 .green{
-  background-color : green;
+  background-color :#009a78;
   width: 22%;
   height: 100%;
   margin-right : 1%;
@@ -48,13 +46,13 @@ body{
   height: 60%;
 }
 .orange{
-  background-color: orangered;
+  background-color: #ea6601;
   width : 25%;
   height: 100%;
   margin-right: 1%;
 }
 .orangelight{
-  background-color: orange;
+  background-color: #ff8961;
   width : 73%;
   height: 100%;
 }
@@ -63,19 +61,19 @@ body{
   width : 35%;
 }
 .blue{
-  background-color: #4b4ef7;
+  background-color: #2196d9;
   width: 35%;
   height: 102%;
   margin-right: 10px;
 }
 .blueblack{
-  background-color: #04067e;
+  background-color: #1b6d9f;
   width: 60%;
   height: 102%;
   margin-right: 10px;
 }
 .bluelight{
-  background-color: rgb(0, 204, 255);
+  background-color: #5ac1fc;
   width : 10%;
   height: 102%;
 }
