@@ -1,70 +1,79 @@
 .bg{
   background-color: rgb(164, 91, 248);
   width: 97%;
-  height: 500px;
+  height: 550px;
   padding: 30px;
   display: flex;
 }
 .container{
   display: block;
+  width: 100%;
+  height : 100%;
 }
 .left{
   display: flex;
-  margin-right : 10px
+  margin-right : 10px;
+  width : 65%;
 }
 .top{
   display: flex;
   margin-bottom: 10px;
+  width: 100%;
+  height : 40%;
 }
 
 .red{
   background-color: red;
-  width: 400px;
-  height: 200px;
-  margin-right : 10px;
+  width: 25%;
+  height: 100%;
+  margin-right : 1%;
 }
 .greenlight{
   background-color: rgb(96, 247, 197);
-  width: 600px;
-  height: 200px;
-  margin-right : 10px;
+  width: 50%;
+  height: 100%;
+  margin-right : 1%;
 }
 .green{
   background-color : green;
-  width: 250px;
-  height : 200px
+  width: 22%;
+  height: 100%;
+  margin-right : 1%;
 }
 .bottom{
   display: flex;
+  width: 100%;
+  height: 60%;
 }
 .orange{
   background-color: orangered;
-  width : 400px;
-  height: 300px;
-  margin-right: 10px;
+  width : 25%;
+  height: 100%;
+  margin-right: 1%;
 }
 .orangelight{
   background-color: orange;
-  width : 860px;
-  height: 300px;
+  width : 73%;
+  height: 100%;
 }
 .right{
   display: flex;
+  width : 35%;
 }
 .blue{
   background-color: #4b4ef7;
-  width: 200px;
-  height: 510px;
+  width: 35%;
+  height: 102%;
   margin-right: 10px;
 }
 .blueblack{
   background-color: #04067e;
-  width: 280px;
-  height: 510px;
+  width: 60%;
+  height: 102%;
   margin-right: 10px;
 }
 .bluelight{
   background-color: rgb(0, 204, 255);
-  width : 70px;
-  height: 510px;
+  width : 10%;
+  height: 102%;
 }
