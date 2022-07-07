@@ -1,5 +1,7 @@
-.bg{
+body{
   background-color: rgb(164, 91, 248);
+}
+.bg{
   width: 97%;
   height: 550px;
   padding: 30px;
